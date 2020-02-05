@@ -1,4 +1,4 @@
-# PROYECTO HORUS: Demo EN Python
+# PROYECTO HORUS: Demo en Python
 Código demo en C# para el consumo de la API de reconocimiento (Proyecto Horus)
 
 El Proyecto Horus consiste en una API REST que permite de forma simple identificar imagenes via redes neuronales.
