@@ -14,7 +14,7 @@ Dentro de las funciones de la API podemos encontrar:
 al 01-02-2020 el proyecto estas en modo beta por lo cual para poder acceder y configurar la API se debera descargar la APP que permite a la administracion desde http://HORUS.CLIPSITE.COM.AR/Admin.zip
 
 La URL a usar en el codigo de ejemplo es:
-http://homologacion.horus.clipsite.com.ar:554/production
+http://horus.clipsite.com.ar/services
 
 El usuario, Password y Perfil se obtienen en esta primer etapa desde el software descargable desde http://horus.clipsite.com.ar.
 
